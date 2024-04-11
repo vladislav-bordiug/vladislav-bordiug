@@ -60,7 +60,7 @@
 
 ---
 
-### My stat
+### My statistics
 
 <div id="stat" align="center">
     <a href="https://github.com/vladislav-bordiug">
