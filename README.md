@@ -27,8 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="qt" width="40" height="40"/>&nbsp;
-<img src="https://railway.app/brand/logo-light.svg#gh-dark-mode-only" title="railway" width="40" height="40"/>&nbsp;
-<img src="https://railway.app/brand/logo-dark.svg#gh-light-mode-only" title="railway" width="40" height="40"/>&nbsp;
+<img src="https://railway.app/brand/logo-dark.png" title="railway" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
 
