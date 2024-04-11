@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Vladislav </h1>
+    <h1>Hello, I'm  Vladislav </h1>
     <h3>Developer from Saint-Petersburg</h3>
 </div>
 
@@ -27,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="qt" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" title="railway" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
 
@@ -35,9 +36,9 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladislav-bordiug&theme=nord_bright" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislav-bordiug&theme=nord_bright" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladislav-bordiug&theme=default" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislav-bordiug&theme=default" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=default" alt=""/>
 </div>
 
 ---
