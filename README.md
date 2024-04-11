@@ -1,16 +1,46 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm  Vladislav </h1>
+    <h3>Developer from Saint-Petersburg</h3>
+</div>
 
-<!--
-**vladislav-bordiug/vladislav-bordiug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/vladislav-bordiug/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/vlad_bordiug">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### About me
+- 🌱 I’m currently learning **Computer Science** at ITMO University
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/vladislav-bordiug/), [email](mailto:vladislav.bordioug@gmail.com)
+- 🌍 I speak English and Russian
+- :grin: I learn algorithms on [LeetCode](https://leetcode.com/vladislav-bordiug/)
+![image](https://github.com/vladislav-bordiug/vladislav-bordiug/assets/60838512/ddfb64da-a714-44a2-baef-44f7724615ac)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
+
+---
+
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+</div>
+
+---
+
+### My projects :point_down:
