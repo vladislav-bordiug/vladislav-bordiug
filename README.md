@@ -4,12 +4,21 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/vladislav-bordiug/">
+  <a href="https://www.linkedin.com/in/vladislav-bordiug/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/vlad_bordiug">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="mailto:vladislav.bordioug@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+  </a>
+</div>
+
+<div id="info" align="center">
+<a href="https://github.com/vladislav-bordiug">
+    <img src="https://github-stats-alpha.vercel.app/api?username=vladislav-bordiug&cc=fffefee&tc=434d58&ic=4c71f2&bc=e4e2e2">
+</a>
 </div>
 
 ### About me
@@ -18,7 +27,11 @@
 - 🌍 I speak English and Russian
 - :grin: I learn algorithms on [LeetCode](https://leetcode.com/vladislav-bordiug/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vladislav-bordiug?theme=light&font=Zen%20Kurenaido&ext=heatmap)
+<div id="leetcode" align="center">
+<a href="https://github.com/vladislav-bordiug">
+    <img src="https://leetcard.jacoblin.cool/vladislav-bordiug?theme=light&font=Zen%20Kurenaido&ext=heatmap">
+</a>
+</div>
 
 ---
 
