@@ -35,9 +35,8 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladislav-bordiug&theme=nord_bright" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladislav-bordiug&theme=nord_bright" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=nord_bright" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislav-bordiug&theme=nord_bright" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=nord_bright" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladislav-bordiug&theme=nord_bright" alt=""/>
 </div>
 
