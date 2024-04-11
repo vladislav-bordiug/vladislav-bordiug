@@ -21,6 +21,8 @@
 </a>
 </div>
 
+---
+
 ### About me
 - 🌱 I’m currently learning **Computer Science** at ITMO University
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/vladislav-bordiug/), [email](mailto:vladislav.bordioug@gmail.com)
