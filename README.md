@@ -51,7 +51,9 @@
 ### My stat
 
 <div id="stat" align="center">
+    <a href="https://github.com/vladislav-bordiug">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladislav-bordiug&theme=default" alt=""/>
+    </a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislav-bordiug&theme=default" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=default" alt=""/>
 </div>
