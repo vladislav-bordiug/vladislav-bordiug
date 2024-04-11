@@ -17,7 +17,8 @@
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/vladislav-bordiug/), [email](mailto:vladislav.bordioug@gmail.com)
 - 🌍 I speak English and Russian
 - :grin: I learn algorithms on [LeetCode](https://leetcode.com/vladislav-bordiug/)
-![image](https://github.com/vladislav-bordiug/vladislav-bordiug/assets/60838512/ddfb64da-a714-44a2-baef-44f7724615ac)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vladislav-bordiug?theme=light&font=Zen%20Kurenaido&ext=heatmap)
 
 ---
 
