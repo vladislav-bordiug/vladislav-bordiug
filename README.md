@@ -39,12 +39,24 @@
 
 ### Languages and tools
 
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="qt" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://railway.app/brand/logo-dark.png" title="railway" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
+</a>
 
 ---
 
@@ -54,8 +66,12 @@
     <a href="https://github.com/vladislav-bordiug">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladislav-bordiug&theme=default" alt=""/>
     </a>
+    <a href="https://github.com/vladislav-bordiug">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladislav-bordiug&theme=default" alt=""/>
+    </a>
+    <a href="https://github.com/vladislav-bordiug">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladislav-bordiug&theme=default" alt=""/>
+    </a>
 </div>
 
 ---
