@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **Computer Science** at ITMO University
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/vladislav-bordiug/), [email](mailto:vladislav.bordioug@gmail.com)
 - 🌍 I speak English and Russian
-- :grin: I learn algorithms on [LeetCode](https://leetcode.com/vladislav-bordiug/)
+- :grin: I'm learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/vladislav-bordiug/)
 
 <div id="leetcode" align="center">
 <a href="https://github.com/vladislav-bordiug">
