@@ -55,6 +55,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://github.com/vladislav-bordiug">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" title="reactbootstrap" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width="40" height="40"/>&nbsp;
 </a>
 
