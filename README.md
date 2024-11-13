@@ -43,6 +43,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://github.com/vladislav-bordiug">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="go" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://github.com/vladislav-bordiug">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://github.com/vladislav-bordiug">
